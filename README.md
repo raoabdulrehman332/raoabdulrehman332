@@ -4,6 +4,12 @@
 </h1>
 
 <div align="center">
+   <img width="1000"  src="https://media.licdn.com/dms/image/D4D16AQFiVRzOWSA9ww/profile-displaybackgroundimage-shrink_350_1400/0/1721763538059?e=1727308800&v=beta&t=GuLAAnlDkktd4WZp16ZlgF0G_xGz2Glp6NuxvRZcgtg" />
+    
+</div>
+</br>
+</br>
+<div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Web+Designer+;Front+End+Developer+" alt="Typing SVG" /></a></div>
 
 <div align="right">
@@ -51,6 +57,7 @@
   
 <h1> 🔗 Connect with me </h1>
   <a href="https://www.linkedin.com/in/rao-abdul-rehman-6495682b9/"> <img width="50"  src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" /> </a>
+
 
 
 
