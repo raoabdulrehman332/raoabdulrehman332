@@ -4,7 +4,7 @@
 </h1>
 
 <div align="center">
-   <img width="1000"  src="https://media.licdn.com/dms/image/D4D16AQFiVRzOWSA9ww/profile-displaybackgroundimage-shrink_350_1400/0/1721763538059?e=1727308800&v=beta&t=GuLAAnlDkktd4WZp16ZlgF0G_xGz2Glp6NuxvRZcgtg" />
+<!--    <img width="1000"  src="https://media.licdn.com/dms/image/D4D16AQFiVRzOWSA9ww/profile-displaybackgroundimage-shrink_350_1400/0/1721763538059?e=1727308800&v=beta&t=GuLAAnlDkktd4WZp16ZlgF0G_xGz2Glp6NuxvRZcgtg" /> -->
     
 </div>
 </br>
@@ -18,7 +18,7 @@
 
 
 <div>
-<img align="right"  width="500" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
+<img align="right"  width="500" src="https://camo.githubusercontent.com/388903de1eca0fe0b7a375b23f3988d12f0fd7d24bafad5ec3e07a96f2e9e150/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313335382f312a7a566e574a7479474f585f6b5549446d3663634366512e676966" />
 
 
 
